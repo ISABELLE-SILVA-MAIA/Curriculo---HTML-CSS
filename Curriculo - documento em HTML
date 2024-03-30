@@ -1,0 +1,70 @@
+<!-- Desenvolvimento de Software WEB -->
+<!--Isabelle Silva Maia - RA: 2559615, 
+    Murillo Albea Santiago - RA: 2540529,
+    Danilo Moura de Sousa - RA: 2543910,
+    Juliano Marinho - 2467201,
+    Marlon Guimarães Líbano - 2587337,
+    Alexsandro Andrade Feitoza - 271686
+    Turma: 173203B16 - Noturno 
+    Documento HTML-->
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="C:\Users\muril\OneDrive\Área de Trabalho\DevWeb\CSS\EstiloPrimeiraFolha.css">
+    <title>Curriculo</title>
+</head>
+
+<body>
+
+<img src="https://cloudfront-us-east-1.images.arcpublishing.com/estadao/AU7SPBK2GVOKLMB64YGFFONA4U.jpg">
+    <br>
+        <h1> JESSICA RODRIGUES MORAIS </h1>
+            <hr>
+                <h2>Perfil</h2>
+                    <p>Cursei Analise e Desenvolvimento de Sistemas, gosto de trabalhar em equipe e creio que assim o time se torna mais proativo e os problemas são resolvidos de forma eficaz. Tenho projetos realizados da faculdade ao qual coloco em meu blog pessoal nas redes socias e também no GitHub. Profissional com mais de 12 anos de experiência em análise e desenvolvimento de sistemas, comprovada habilidade na tradução de requisitos do cliente em soluções de software eficientes. Especializado em conduzir todo o ciclo de vida do desenvolvimento de software, desde a concepção até a implementação e manutenção contínua. Experiente em diversas tecnologias e linguagens de programação, incluindo C#, Java, Python e SQL. Amplo conhecimento em metodologias ágeis de desenvolvimento, como Scrum e Kanban, e comprovada capacidade de integração de sistemas e API. Excelentes habilidades de comunicação e trabalho em equipe, capaz de colaborar efetivamente com colegas de diversas áreas. Buscando oportunidades para contribuir com sucesso para projetos desafiadores em uma equipe dinâmica e inovadora.</p>
+                        <hr>
+                            <h3> Principais Competencias </h3>
+                                <uL>
+                                <li>Proativa</li>
+                                <li>Perfil Analitico</li>
+                                <li>Atenciosa</li>
+                                <li>Desenvolvimento Back-End</li>
+                                <li>Programadora em C#, JAVA, Python E SQL Server</li>
+                                <li>Trabalho em equipe</li>
+                                <li>Atendimento ao cliente</li>
+                                </uL>
+                            <hr>
+                        <h4> Formação Academica </h4>
+                    <p> Graduação em Analise e Desenvolvimento de Sistemas pela <a href="https://portal.fmu.br/">FMU</a></p>
+                    <p> Pós Graduação em Engenharia de Software pela <a href="https://portal.fmu.br/">FMU</a></p>
+                 <hr>
+            <h5>Experiencia Profissional</h5>
+        <ol>
+        <li><strong>XPO - Desenvolvimento</strong></li>
+            <p><strong>12 Anos 7 Meses - Trabalho atualmente aqui</strong></p>
+            <p>Presencial</p>
+            <p><strong>Desenvolvedor Back-End Senior</strong></p>
+            <p>Tempo Integral</p>
+            <div>Habilidades</div>
+            <ul>
+                <li>Desenvolvedora Back-End;</li>
+                <li>Participação na criação do software AirPlane;</li>
+                <li>implementação do software AirPlane;</li>
+                <li>Manutenção diaria no software AirPlane;</li>
+                <li>Projetos realizados atraves das linguagens: C#, JAVA, Phyton e Microsoft SQL Server;</li>
+                <li>Pacote Microsoft;</li>
+                <li>Participação em eventos de Tech;</li>
+                <li>Controle de indicadores para melhor aproveitamento.</li>
+            </ul>
+        </ol>
+        <hr>
+    <h6>Formas de contatos</h6>
+<ul>
+<li>Celular (WhatsApp): (11) 9956709132</li>
+<li>Celular: (11) 99876503657</li>
+<li>E-mail: JessicaMorais.00918@gmail.com</li>
+<li>LinkedIn: https://www.linkedin.com/in/Jessica-Rodrigues-Morais-953904239/</li>
+</ul>
+
+</body>
+</html>
